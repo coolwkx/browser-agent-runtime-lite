@@ -17,11 +17,11 @@
     "check": "npm run typecheck && npm test"
   },
   "dependencies": {
-    "playwright": "^1.62.1"
+    "playwright": "^1.63.0"
   },
   "devDependencies": {
-    "@types/node": "^26.4.0",
-    "tsx": "^4.23.13",
+    "@types/node": "^26.6.2",
+    "tsx": "^4.23.15",
     "typescript": "^5.9.3"
   },
   "license": "MIT"
